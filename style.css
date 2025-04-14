@@ -12,3 +12,8 @@ color: black;
     width: 20px;
     text-align: center;
 }
+.cabeçalho h1 {
+    font-size: 0%;
+    color: black;
+margin: 5%;
+}
